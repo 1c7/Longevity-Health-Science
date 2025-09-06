@@ -14,6 +14,8 @@
 
 - [Bryan Johnson](https://www.youtube.com/@BryanJohnson)：这个人每年花很多时间和金钱尽可能提升自己的健康水平。大量的制作视频内容。
 
+- [Andrew Huberman](https://www.youtube.com/@hubermanlab)：不知道怎么概括这个人。
+
 ## 免责声明
 这些人制作了非常多的视频，我也没有完整的全部看完，本人不对上述博主的内容负责。请读者自行甄别。
 
