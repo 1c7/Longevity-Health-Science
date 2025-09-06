@@ -6,11 +6,11 @@
 ## Youtube 频道
 - [The Quantified Scientist](https://www.youtube.com/@TheQuantifiedScientist)：这个人专门做 健康检测设备 的测评，一般是手表手环，比如华为小米手环，我购买佳明 265 手表 和华米 Helio Strap 就参考了这个频道的视频
 
-- [Siim Land](https://www.youtube.com/@SiimLand)：反正就是健康相关的视频，我很难写一个精确的介绍语。
+- [Siim Land](https://www.youtube.com/@SiimLand)：（暂无介绍语，不知道怎么概括）
 
-- [Bryan Johnson](https://www.youtube.com/@BryanJohnson)：这个人每年花很多时间和金钱尽可能提升自己的健康水平。大量的制作视频内容。
+- [Bryan Johnson](https://www.youtube.com/@BryanJohnson)：他每年花很多时间和金钱尽可能提升自己的健康水平。大量制作健康视频。
 
-- [Andrew Huberman](https://www.youtube.com/@hubermanlab)：不知道怎么概括这个人。
+- [Andrew Huberman](https://www.youtube.com/@hubermanlab)：（暂无介绍语，不知道怎么概括）
 
 ## 免责声明
 这些人制作了非常多的视频，我也没有完整的全部看完，本人不对上述博主的内容负责。请读者自行甄别。
