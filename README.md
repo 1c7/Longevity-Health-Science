@@ -12,14 +12,15 @@
 
 - [Andrew Huberman](https://www.youtube.com/@hubermanlab)：（暂无介绍语，不知道怎么概括）
 
-## 免责声明
-这些人制作了非常多的视频，我也没有完整的全部看完，本人不对上述博主的内容负责。请读者自行甄别。
 
-## 更多相关内容
+### 更多相关内容
 - [1c7/Fitness](https://github.com/1c7/Fitness)：专注健身主题
 
 
 <!-- 
+## 免责声明
+这些人制作了非常多的视频，我也没有完整的全部看完，本人不对上述博主的内容负责。请读者自行甄别。
+
 健康学习到150岁 - 人体系统调优不完全指南
 https://github.com/zijie0/HumanSystemOptimization
 
