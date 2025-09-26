@@ -4,13 +4,97 @@
 > 本文是简单的分享，肯定是不够完整和全面，我也是一边学习一边整理，请不要用高标准要求内容质量。
 
 ## Youtube 频道
-- [The Quantified Scientist](https://www.youtube.com/@TheQuantifiedScientist)：这个人专门做 健康检测设备 的测评，一般是手表手环，比如华为小米手环，我购买佳明 265 手表 和华米 Helio Strap 就参考了这个频道的视频
+- [Bryan Johnson](https://www.youtube.com/@BryanJohnson)：他每年花很多时间和金钱尽可能提升自己的健康水平。大量制作健康视频。
 
 - [Siim Land](https://www.youtube.com/@SiimLand)：（暂无介绍语，不知道怎么概括）
 
-- [Bryan Johnson](https://www.youtube.com/@BryanJohnson)：他每年花很多时间和金钱尽可能提升自己的健康水平。大量制作健康视频。
+## Andrew Huberman
+- Youtube： https://www.youtube.com/@hubermanlab
 
-- [Andrew Huberman](https://www.youtube.com/@hubermanlab)：（暂无介绍语，不知道怎么概括）
+## Peter Attia MD
+- Youtube： https://www.youtube.com/@PeterAttiaMD/videos
+- 官网： https://peterattiamd.com/
+
+## Ben Greenfield
+- [Ben Greenfield: The #1 Biohack Is Free (And It's Not Diet or Exercise)](https://www.youtube.com/watch?v=bfJPR_5h2d0)
+
+## Thomas DeLauer
+- Youtube: https://www.youtube.com/@ThomasDeLauerOfficial/videos
+
+## 问 Gemini 2.5 Pro
+```
+我没有无限的时间去阅读和看这些视频，我需要简短的，总结性质的，当下2025年最新的行动指南，我应该关注谁？ 我认为 Dr. David Sinclair 是浪费时间，我不需要知道那么多前沿的知识。我要的是行动指南，不是细枝末节。
+```
+
+## 回答：
+完全理解。您需要的是一份去芜存菁、可以直接执行的行动指南，而不是长篇大论的科学理论。
+
+在这种需求下，2025年您最应该关注的两位人物是：
+
+1.  Dr. Andrew Huberman (安德鲁·休伯曼)：你的「免费」行动工具箱。
+2.  Dr. Peter Attia (彼得·阿蒂亚)：你的「顶层」健康战略师。
+
+忘掉其他人，专注于从这两位身上获取信息就足够了。Huberman 给你具体、每日可操作的工具，Attia 给你宏观的、决定你健康寿命的战略框架。
+
+---
+
+### 为什么是他们？
+
+* Huberman 把复杂的神经科学变成了你可以立即使用且大多免费的“生活协议”，比如“如何利用光线优化睡眠和精力”、“如何通过呼吸法快速降低压力”。他的建议非常具体，可操作性极强。
+* Attia 的播客虽然长，但其核心思想可以被高度浓缩。他提出了一个强大的健康框架，告诉你应该把有限的精力和资源投入到回报率最高的地方，尤其是运动。
+
+---
+
+### 2025 年终极浓缩行动指南 (综合 Huberman & Attia 的核心观点)
+
+如果您没有时间看任何视频，直接执行以下几点，这已经是 90% 的人无法做到的，并且能带来巨大回报。
+
+#### 第一优先级：运动是绝对的基石 (Non-negotiable)
+
+这是 Peter Attia 认为的最强长寿“药物”，回报最高。
+
+* 1. 有氧运动 (Cardio):
+    * 区域二 (Zone 2) 训练: 每周累计 150-180分钟。这是指你可以一边运动一边进行完整对话的强度（比如快走、慢跑、骑行）。这是构建线粒体功能、提升新陈代谢健康的基础。
+    * 最大摄氧量 (VO2 Max) 训练: 每周 1-2次，每次做 4x4 训练（高强度运动4分钟，休息4分钟，重复4轮）。这是为了提升你的心肺功能上限。
+
+* 2. 力量训练 (Strength Training):
+    * 每周 2-3次，针对所有主要肌群（推、拉、腿）。目标是增肌和维持肌肉量，这是对抗衰老、维持代谢水平和身体功能的关键。
+
+* 3. 稳定性训练 (Stability):
+    * 每周花少量时间练习，核心是预防受伤。可以是一些简单的动作，如单腿站立、平板支撑、鸟狗式等。
+
+#### 第二优先级：睡眠是根本
+
+这是 Huberman 的核心领域，也是一切恢复和优化的基础。
+
+* 1. 建立规律: 每天同一时间睡觉和起床，即使是周末。
+* 2. 掌控光线:
+    * 早晨: 起床后立即出门接触 10-15 分钟的自然光（不要隔着玻璃），这会校准你的生物钟，让你白天精神，晚上困倦。
+    * 夜晚: 睡前1-2小时，调暗室内光线，避免使用手机、电脑等电子屏幕的强光。
+* 3. 创造环境: 保持卧室凉爽、黑暗、安静。
+
+#### 第三优先级：营养（简化版）
+
+不要陷入复杂的饮食教条，遵循以下原则：
+
+* 1. 蛋白质优先: 确保摄入足够的蛋白质（对于希望增肌减脂的你，大约每天 `1.6-2.2克/公斤体重`）。蛋白质能提供饱腹感，并是维持肌肉的必需品。
+* 2. 吃真实的食物: 尽量选择未经深度加工的食物，如蔬菜、水果、瘦肉、鱼、蛋等。
+* 3. 限制两样东西: 严格限制或戒掉含糖饮料和高度加工食品。
+
+### 总结：如何开始
+
+1.  忘记 Bryan Johnson 的极端方案，那需要一个团队和巨额资金。
+2.  将「运动」视为你最重要的健康任务，按照上述频率安排到你的日程中。这是 Peter Attia 的核心洞见。
+3.  从 Huberman 的建议中挑选一个「免费工具」开始，比如每天早上去散步 10 分钟晒太阳。这是最容易坚持且见效快的习惯。
+
+一句话总结：以 Peter Attia 的运动框架为核心，用 Andrew Huberman 的日常工具来优化你的睡眠和精力。 这样做，你就抓住了当下长寿科学领域最核心、最可行的行动指南。
+
+
+
+<!-- 
+- Dr. David Sinclair
+
+- [The Quantified Scientist](https://www.youtube.com/@TheQuantifiedScientist)：这个人专门做 健康检测设备 的测评，一般是手表手环，比如华为小米手环，我购买佳明 265 手表 和华米 Helio Strap 就参考了这个频道的视频 -->
 
 
 ### 更多相关内容
